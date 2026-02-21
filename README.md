@@ -256,7 +256,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
 
-**Built with ❤️ by [JeetInTech](https://github.com/JeetInTech)**
+**Built with Ai by [JeetInTech](https://github.com/JeetInTech)**
 
 *Powered by Google Gemini 2.5 Flash Native Audio*
 
