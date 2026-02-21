@@ -1,0 +1,8 @@
+{
+  "name": "SANA : The Futuristic Butler",
+  "description": "An intelligent, observant AI butler with a high-fidelity  visualization, supporting English and Hindi via low-latency voice interaction.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
