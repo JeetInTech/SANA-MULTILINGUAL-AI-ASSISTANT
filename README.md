@@ -11,7 +11,7 @@
 
 **A real-time, voice-first AI assistant powered by Google Gemini's native audio model with a futuristic holographic face visualizer.**
 
-[Live Demo](https://ai.studio/apps/drive/1ZceSfci71GeFS9U1k4TRIpDDeSmUA2yJ) · [Report Bug](https://github.com/JeetInTech/SANA-MULTILINGUAL-AI-ASSISTANT/issues) · [Request Feature](https://github.com/JeetInTech/SANA-MULTILINGUAL-AI-ASSISTANT/issues)
+[Report Bug](https://github.com/JeetInTech/SANA-MULTILINGUAL-AI-ASSISTANT/issues) · [Request Feature](https://github.com/JeetInTech/SANA-MULTILINGUAL-AI-ASSISTANT/issues)
 
 </div>
 
@@ -257,7 +257,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
 
-**Built with ❤️ by [JeetInTech](https://github.com/JeetInTech)**
+**Built with Ai by [JeetInTech](https://github.com/JeetInTech)**
 
 *Powered by Google Gemini 2.5 Flash Native Audio*
 
